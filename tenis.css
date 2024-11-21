@@ -1,0 +1,14 @@
+div{
+    color: lightseagreen;
+    background-color: linen;
+    text-align: center;
+    font-size: 25pt;
+}
+body{
+    background-color: silver;
+}
+.div2{
+    color: crimson;
+    text-align: left;
+    font-size: 16pt;
+}
